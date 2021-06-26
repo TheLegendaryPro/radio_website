@@ -98,7 +98,7 @@ const ActivitiesPage = props => {
             </Text>
           </motion.div>
         </Col>
-        <Col p={{ t: { xs: "0vh", lg: "5vh" } }} size={{ xs: "12", lg: "5" }} onClick={() => location.href = "/test/"}>
+        <Col p={{ t: { xs: "0vh", lg: "5vh" } }} size={{ xs: "12", lg: "5" }} onClick={() => location.href = "/this_year_event/"}>
           <motion.div animate={opacityControls}>
             <Text tag="h1" textWeight="400" textSize="subheader" p={{ y: "2.5vh" }}>
               This year's events & activities →

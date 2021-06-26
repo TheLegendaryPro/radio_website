@@ -3,4 +3,6 @@ title: This year's events & activities
 menuTitle: ODay
 ---
 
-**Coming Soon! Stay Tuned!**
+Events in this year
+
+![]()
