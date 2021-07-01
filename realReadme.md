@@ -22,5 +22,5 @@ in `src/pages/index.js`, there is a graphql code, within that file, search `20gb
 ## Add events to timetree
 in `content/jsons/timetree.json`
 
-
-
+## Add new jong in about us
+create a new folder in `content/posts`, use the formatting of the older ones

@@ -220,6 +220,10 @@ class IndexPage extends React.Component {
                   View more →
                 </Text>
                 {window.innerWidth > 800 && <AnimatedImage colour="#8B4513" children={img}/>}
+
+                <Text textWeight="300" tag="p" textSize="1.75rem" p={{ y: "5%" }}><a style={{ color: "black" }} href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/su_radio_connect_ust_hk/EVrRRLgYBBxCs0ty4P8wv5MBiM2n5wsm98LZyoIRektVPQ?e=W03mmJ">click for Radio Constitution</a></Text>
+
+
               </Div>
             </Col>
           </Row>
